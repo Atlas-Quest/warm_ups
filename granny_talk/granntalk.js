@@ -7,7 +7,7 @@ var input = prompt('grannyTalk');
 function grannyTalk(phrase) {
   if (phrase.toLowerCase() === "bye") {
     console.log(bye);
-  }else if (phrase.toUpperCase() ) {
+  }else if (phrase.toUpperCase() === ) {
 
   }
   console.log(normal);
